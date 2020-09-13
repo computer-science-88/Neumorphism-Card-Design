@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    /* text-transform: uppercase; */
+    font-size: 160px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    color: transparent;
+    background-image: linear-gradient(109deg,#dc2424,#4a569d);
+    -webkit-background-clip: text;
+}
